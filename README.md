@@ -29,5 +29,5 @@ It also highlighted the importance of data-driven decision-making in improving c
 ---
 
 ## Dashboard Preview
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQEp5I-H3yF7ZA/feedshare-shrink_2048_1536/B4EZlIOzT2KQAw-/0/1757853487190?e=1761177600&v=beta&t=ms2576oC2mlwZ8aaAmQe2ESwgQekAddDzgNoq3S8csw" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQHWJrhcW3Y7Ng/feedshare-shrink_2048_1536/B4EZlIOzUPKsAw-/0/1757853487423?e=1761177600&v=beta&t=Punnh9uteuSSMwoMWNcvyUudWZ0wrhTNavfsEgsjQGE" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+<img src="https://raw.githubusercontent.com/vinothduraimanickam/RBC_Customer_Churn_Analysis/refs/heads/main/RBC_Customer_Churn_Analysis_Page-01_Light.jpg" alt="Data Analytics GIF" style="width:50%; max-width:50%;"/>
+<img src="https://raw.githubusercontent.com/vinothduraimanickam/RBC_Customer_Churn_Analysis/refs/heads/main/RBC_Customer_Churn_Analysis_Page-02_Light.jpg" alt="Data Analytics GIF" style="width:50%; max-width:50%;"/>
