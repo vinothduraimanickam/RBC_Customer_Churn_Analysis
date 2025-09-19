@@ -30,6 +30,6 @@ It also highlighted the importance of data-driven decision-making in improving c
 
 ## Dashboard Preview
 <p>
- <img src="https://raw.githubusercontent.com/vinothduraimanickam/RBC_Customer_Churn_Analysis/refs/heads/main/RBC_Customer_Churn_Analysis_Page-01_Light.jpg" alt="Data Analytics GIF" width="500" height="281"/>
- <img src="https://raw.githubusercontent.com/vinothduraimanickam/RBC_Customer_Churn_Analysis/refs/heads/main/RBC_Customer_Churn_Analysis_Page-02_Light.jpg" alt="Data Analytics GIF" swidth="500" height="281"/>
+ <img src="https://raw.githubusercontent.com/vinothduraimanickam/RBC_Customer_Churn_Analysis/refs/heads/main/RBC_Customer_Churn_Analysis_Page-01_Light.jpg" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
+ <img src="https://raw.githubusercontent.com/vinothduraimanickam/RBC_Customer_Churn_Analysis/refs/heads/main/RBC_Customer_Churn_Analysis_Page-02_Light.jpg" alt="Data Analytics GIF" style="width:100%; max-width:100%;"/>
 </p>
